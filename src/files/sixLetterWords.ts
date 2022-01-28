@@ -3,7 +3,7 @@ export const sixLetterWords = {
     "a list of common 6-letter words followed by crossword/thesaurus-style hints for that word",
   data: {
     circle: [],
-    thrown:[],
+    thrown: [],
     drawer: [],
     abuses: [
       "takes advantage of",
